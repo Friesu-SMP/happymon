@@ -19,4 +19,4 @@ tuff right
 
 WELL WHATEVER ITS ALL WE COULD AFFORD (it was free)
 
-###### [Friesu SMP](https://friesu-smp.github.io/)
+####### [Friesu SMP](https://friesu-smp.github.io/)
