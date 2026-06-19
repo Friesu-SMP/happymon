@@ -1,3 +1,5 @@
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+
 <p align="right"><iframe src="https://discord.com/widget?id=1446182520172318733&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></p>
 
 # Happymon
@@ -25,5 +27,3 @@ tuff right
 WELL WHATEVER ITS ALL WE COULD AFFORD (it was free)
 
 ###### [Friesu SMP](https://friesu-smp.github.io/)   |  [Discord Server](https://discord.gg/aTJxMNWGGF)
-
-<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
