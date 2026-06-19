@@ -2,6 +2,8 @@
 
 # Happymon
 
+Java: Happymon.aternos.me
+
 Happymon SMP's website
 
 hi guys!! this is happymon smp using cobblemon
