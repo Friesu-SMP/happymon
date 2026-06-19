@@ -25,3 +25,5 @@ tuff right
 WELL WHATEVER ITS ALL WE COULD AFFORD (it was free)
 
 ###### [Friesu SMP](https://friesu-smp.github.io/)   |  [Discord Server](https://discord.gg/aTJxMNWGGF)
+
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
