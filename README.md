@@ -29,7 +29,7 @@ WELL WHATEVER ITS ALL WE COULD AFFORD (it was free)
 ###### [Friesu SMP](https://friesu-smp.github.io/)   |  [Discord Server](https://discord.gg/aTJxMNWGGF)
 
 
-        }
+        
    
 <body>
     <table width="100%" cellpadding="0" cellspacing="0" border="0">
